@@ -1,0 +1,38 @@
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanNhau.csprojResolveAssemblyReference.cache
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAccountProfile.resources
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fLogin.resources
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fTableManager.resources
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanNhau.csproj.GenerateResource.Cache
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\bin\Debug\QuanLyCafe.exe.config
+D:\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyCafe.exe
+D:\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyCafe.pdb
+D:\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\bin\Debug\QuanLyCafe.exe
+D:\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\bin\Debug\QuanLyCafe.pdb
+D:\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyCafe.fAccountProfile.resources
+D:\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyCafe.fLogin.resources
+D:\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyCafe.fTableManager.resources
+D:\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyQuanNhau.csproj.GenerateResource.Cache
+D:\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyCafe.fAdmin.resources
+D:\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyQuanNhau.csprojAssemblyReference.cache
+D:\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyQuanNhau.csproj.CoreCompileInputs.cache
+C:\My folder\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\bin\Debug\QuanLyCafe.exe.config
+C:\My folder\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\bin\Debug\QuanLyCafe.exe
+C:\My folder\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\bin\Debug\QuanLyCafe.pdb
+C:\My folder\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyQuanNhau.csprojAssemblyReference.cache
+C:\My folder\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyCafe.fAdmin.resources
+C:\My folder\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyCafe.fLogin.resources
+C:\My folder\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\My folder\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyCafe.fTableManager.resources
+C:\My folder\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyQuanNhau.csproj.GenerateResource.cache
+C:\My folder\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyQuanNhau.csproj.CoreCompileInputs.cache
+C:\My folder\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyCafe.exe
+C:\My folder\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyCafe.pdb
+C:\My folder\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\My folder\Tu Hoc Winform\Project\QuanLyQuanNhau\QuanLyQuanNhau\obj\Debug\QuanLyQuanNhau.csproj.CopyComplete

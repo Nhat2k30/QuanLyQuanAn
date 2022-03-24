@@ -1,0 +1,10 @@
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojResolveAssemblyReference.cache
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Login.resources
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.Cache
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\Tu Hoc Winform\Project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.TableManager.resources
